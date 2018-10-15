@@ -1,0 +1,26 @@
+.meta {
+  text-align: right;
+  color: grey;
+  margin-bottom: 0pt;
+  border: 1px solid black;
+}
+
+.queen {
+  color: blue;
+}
+
+.king {
+  color: blueviolet;
+}
+
+.alice {
+  color: cornflowerblue;
+}
+
+.written {
+  font-style: italic;
+}
+
+.spoken {
+  font-family: Helvetica, sans-serif;
+}

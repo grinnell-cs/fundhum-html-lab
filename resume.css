@@ -1,0 +1,60 @@
+body {
+  background-color: yellow;
+  color: #008080;
+}
+
+p#address {  
+  float: left;
+}
+
+p#contact {
+  float: right;
+}
+
+div#body{
+  clear: left;
+  margin-left: 1in;
+  margin-right: 1in;
+}
+
+h1 {
+  font-family: Helvetica, Sans;
+  border: 2px solid red;
+  background: green;
+  margin-bottom: 0px;
+  color: #FF22BB;
+}
+
+h2 {
+  text-align: right;
+  font-family: Helvetica, Sans;
+  color: white;
+  text-shadow: 2px 5px red;
+}
+
+p.entry {
+  border-top: 1px solid black;
+  width: 100%;
+}
+
+span.date {
+  margin-left: 2em;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  font-size: small;
+}
+
+ul#interests {
+  
+}
